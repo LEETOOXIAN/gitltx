@@ -13,7 +13,7 @@
 #include "diagnose.h"
 #include "setup.h"
 #include "version.h"
-
+//啊阿三发放对方的防守
 static void get_system_info(struct strbuf *sys_info)
 {
 	char *shell = NULL;
