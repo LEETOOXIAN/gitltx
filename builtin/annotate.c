@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2006 Ryan Anderson
  */
-
+//test0000
 #include "git-compat-util.h"
 #include "builtin.h"
 #include "strvec.h"
